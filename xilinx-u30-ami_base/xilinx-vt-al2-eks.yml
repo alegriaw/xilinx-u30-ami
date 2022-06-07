@@ -1,9 +1,9 @@
 {
   "variables": {
-    "region": "us-east-1",
+    "region": "ap-northeast-1",
     "flag": "eks-1.21",
-    "subnet_id": "subnet-09b951ba00b705f04",
-    "security_groupids": "sg-0400a42b522066098",
+    "subnet_id": "subnet-743bdd3c",
+    "security_groupids": "sg-0b8113632dd9c7ea8",
     "build_ami": "ami-0fb604efcd6aaf3d5",
     "xilinx-video-sdk_version": "v1.5",
     "xilinx-video-releasedir": "U30_Amazon_2.0_v1.5_20210827"
