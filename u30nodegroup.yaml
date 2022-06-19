@@ -2,7 +2,7 @@ apiVersion: eksctl.io/v1alpha5
 kind: ClusterConfig
 
 metadata:
-  name: vt1-demo-eks-cluster
+  name: u30-eks
   region: ap-northeast-1
 
 vpc:
@@ -35,4 +35,4 @@ managedNodeGroups:
     maxSize: 4
     overrideBootstrapCommand: |
       #!/bin/bash
-      /etc/eks/bootstrap.sh vt1-demo-eks-cluster
+      /etc/eks/bootstrap.sh u30-eks
