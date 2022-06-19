@@ -29,7 +29,7 @@ managedNodeGroups:
       allow: true
       publicKeyName: vt1-key-NRT
     subnets:
-    - ap-northeast-1a
+    - subnet-0e017847884b340e7
     minSize: 1
     desiredCapacity: 1
     maxSize: 4
