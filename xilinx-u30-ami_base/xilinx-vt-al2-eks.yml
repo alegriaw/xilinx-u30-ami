@@ -4,7 +4,7 @@
     "flag": "eks-1.21",
     "subnet_id": "subnet-743bdd3c",
     "security_groupids": "sg-0b8113632dd9c7ea8",
-    "build_ami": "ami-0fb604efcd6aaf3d5",
+    "build_ami": "ami-0fb4035bee11b3ca4",
     "xilinx-video-sdk_version": "v1.5",
     "xilinx-video-releasedir": "U30_Amazon_2.0_v1.5_20210827"
   },
